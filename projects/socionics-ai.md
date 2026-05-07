@@ -104,4 +104,4 @@ P2 учитывает результат P1: при анализе типа ко
 
 ## Статус
 
-Private repo. По доступу — пишите.
+Private repo. По доступу — пишите в Telegram [@AleCenn](https://t.me/AleCenn).
