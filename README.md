@@ -17,5 +17,5 @@
 
 ## Контакты
 
+- Telegram: [@AleCenn](https://t.me/AleCenn) — пишите сюда
 - GitHub: [@Alex121231212](https://github.com/Alex121231212)
-- По вопросам доступа к приватным репо — пишите.
